@@ -1,5 +1,6 @@
 {
   "live": "1.0.0",
   "cy": "1.0.0",
+  "loader": "1.2.1",
   "changelog": "first upload"
 }
