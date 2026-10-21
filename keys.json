@@ -1,11 +1,53 @@
 {
   "keys": {
-    "CY-093D-5C4D-3207-8998": {
+    "CY-EFF4-24FE-71DF-3EF3": {
+      "active": true,
+      "build": "both",
+      "hwid": "025817492|8904",
+      "days": 999,
+      "note": "ты / #1"
+    },
+    "CY-C38A-AB42-9C2F-2C8F": {
+      "active": true,
+      "build": "both",
+      "hwid": "02224468|8134",
+      "days": 999,
+      "note": "#2"
+    },
+    "CY-A1B2-C3D4-E5F6-1003": {
       "active": true,
       "build": "live",
-      "hwid": "025817492|8904",
-      "days": 0,
-      "minutes": 3
+      "hwid": "",
+      "days": 7,
+      "note": "#3 — вставь hwid человека"
+    },
+    "CY-A1B2-C3D4-E5F6-1004": {
+      "active": true,
+      "build": "live",
+      "hwid": "",
+      "days": 7,
+      "note": "#4 — вставь hwid человека"
+    },
+    "CY-A1B2-C3D4-E5F6-1005": {
+      "active": true,
+      "build": "live",
+      "hwid": "",
+      "days": 7,
+      "note": "#5 — вставь hwid человека"
+    },
+    "CY-A1B2-C3D4-E5F6-1006": {
+      "active": true,
+      "build": "live",
+      "hwid": "",
+      "days": 7,
+      "note": "#6 — вставь hwid человека"
+    },
+    "CY-A1B2-C3D4-E5F6-1007": {
+      "active": true,
+      "build": "live",
+      "hwid": "",
+      "days": 7,
+      "note": "#7 — вставь hwid человека"
     }
   }
 }
