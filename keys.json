@@ -12,14 +12,14 @@
       "build": "both",
       "hwid": "02224468|8134",
       "days": 999,
-      "note": "#2 artem"
+      "note": "#2artem"
     },
     "CY-0E03-F132-6B31-C2D8": {
       "active": true,
-      "build": "live",
+      "build": "both",
       "hwid": "02266749|8134",
       "days": 999,
-      "note": "#3 gavrik"
+      "note": "#3gavrik"
     },
     "CY-A1B2-C3D4-E5F6-1004": {
       "active": true,
