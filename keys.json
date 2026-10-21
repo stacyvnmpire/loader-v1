@@ -28,12 +28,12 @@
       "days": 999,
       "note": "#4kirill"
     },
-    "CY-A1B2-C3D4-E5F6-1005": {
+    "CY-D2F9-12B9-F651-D212": {
       "active": true,
-      "build": "live",
-      "hwid": "",
-      "days": 7,
-      "note": "#5 — вставь hwid человека"
+      "build": "both",
+      "hwid": "02266749|8134",
+      "days": 999,
+      "note": "#5neurobot"
     },
     "CY-A1B2-C3D4-E5F6-1006": {
       "active": true,
